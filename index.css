@@ -1,0 +1,33 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container {
+    width: 200px;
+    background: #EEE;
+    padding: 20px 30px 0;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: inset 0px 0px 7px #ccc;
+    min-height: 95px;
+}
+#cpf {
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+}
+button {
+    margin-top: 20px;
+    border: 0;
+    background: green;
+    width: 130px;
+    line-height: 30px;
+    border-radius: 4px;
+    color: #FFF;
+}
+#mensagem {
+    font-weight: 700;
+    color: green;
+    line-height: 50px;
+}
